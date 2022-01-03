@@ -1,0 +1,19 @@
+{
+  "name": "registration",
+  "version": "1.0.0",
+  "description": "You may register as user and login to platform by this project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shodlik-Shomuratov/Registration.git"
+  },
+  "author": "Shodlik Shomuratov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shodlik-Shomuratov/Registration/issues"
+  },
+  "homepage": "https://github.com/Shodlik-Shomuratov/Registration#readme"
+}
